@@ -1,0 +1,1 @@
+An RMI application for market place. No DB is used.
